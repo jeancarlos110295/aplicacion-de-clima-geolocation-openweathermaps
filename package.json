@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/jeancarlos110295/aplicacion-de-clima-geolocation-openweathermaps#readme",
   "dependencies": {
-    "colors": "^1.4.0"
+    "axios": "^0.21.1",
+    "colors": "^1.4.0",
+    "dotenv": "^10.0.0",
+    "inquirer": "^8.1.1",
+    "uuid": "^8.3.2"
   }
 }
